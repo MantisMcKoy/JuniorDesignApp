@@ -1,0 +1,6 @@
+[submodule "JuniorDesignFE"]
+	path = JuniorDesignFE
+	url = https://github.com/Erickkbentz/JuniorDesignFE
+[submodule "JuniorDesignML"]
+	path = JuniorDesignML
+	url = https://github.com/Erickkbentz/JuniorDesignML
