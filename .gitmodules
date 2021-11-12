@@ -1,7 +1,7 @@
 [submodule "JuniorDesignFE"]
 	path = JuniorDesignFE
 	url = https://github.com/Erickkbentz/JuniorDesignFE
-	branch = main
+	branch = new-main
 [submodule "JuniorDesignML"]
 	path = JuniorDesignML
 	url = https://github.com/Erickkbentz/JuniorDesignML
