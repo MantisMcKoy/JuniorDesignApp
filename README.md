@@ -20,6 +20,8 @@ npm i -g prisma@latest
 npm i @prisma/client@latest
 prisma generate
 
+
+
 ### Setup Machine Learning
 cd ../JuniorDesignML
 pip install Flask
