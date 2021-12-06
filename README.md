@@ -12,7 +12,7 @@ git submodule init
 
 git submodule update
 
-### Setup Frontend and Prisma database client
+### -- Setup Frontend and Prisma database client --
 cd JuniorDesignFE
 npm install
 
@@ -20,9 +20,7 @@ npm i -g prisma@latest
 npm i @prisma/client@latest
 prisma generate
 
-
-
-### Setup Machine Learning
+### -- Setup Machine Learning --
 cd ../JuniorDesignML
 pip install Flask
 pip install praw
