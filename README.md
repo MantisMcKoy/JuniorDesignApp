@@ -29,4 +29,4 @@ prisma generate
 ### -- Setup Machine Learning --
 cd ../JuniorDesignML
 
-pip install Flask praw pandas pickle numpy PyPDF2 nltk text2emotion datetime
+pip install Flask praw pandas numpy PyPDF2 nltk text2emotion datetime
