@@ -30,3 +30,9 @@ prisma generate
 cd ../JuniorDesignML
 
 pip install Flask praw pandas numpy PyPDF2 nltk text2emotion datetime
+
+python app.py
+
+NOTE: If running into any bugs 'module xxx does not exist' run 'pip install xxx'
+
+
